@@ -1,0 +1,15 @@
+openai
+python-dotenv
+fastmcp
+httpx
+readabilipy
+markdownify
+PyPDF2
+python-docx
+Pillow
+docx2pdf
+pdf2docx
+beautifulsoup4
+html5lib
+lxml
+regex
